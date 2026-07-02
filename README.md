@@ -1,5 +1,6 @@
 ## Call me Funmi 👋
 I'm passionate about AI, data analytics, and maritime industry and supply chain innovations.
+I solve maritime and supply chain problems using data
 
 About
 
